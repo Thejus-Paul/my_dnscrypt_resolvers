@@ -1,3 +1,24 @@
+# public-resolvers
+
+This is a list of public DNS resolvers supporting the
+DNSCrypt and DNS-over-HTTP2 protocols.
+
+This list is maintained by Thejus Paul
+
+Adjust the `require_*` options in dnscrypt-proxy to filter that list
+according to your needs.
+
+To use that list, add this to the `[sources]` section of your
+`dnscrypt-proxy.toml` configuration file:
+
+    [sources.'public-resolvers']
+    urls = ['https://raw.githubusercontent.com/Thejus-Paul/my_dnscrypt_resolvers/master/public-resolvers.md']
+    minisign_key = 'RWRZQ0WkSMYcLgSGL6YHPDrvUbgsqHcGnP63oAvJP8wlwBMU2vVg2YKW'
+    cache_file = 'public-resolvers.md'
+
+--
+
+
 ## doh-ibksturm
 
 doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
