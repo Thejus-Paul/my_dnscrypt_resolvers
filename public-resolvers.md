@@ -18,11 +18,11 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
-
 ## dns.digitale-gesellschaft.ch
 
 Public DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
-Hosted in Zurich, Switzerland.
+
+Hosted in Zürich, Switzerland🇨🇭. 
 
 Non-logging, non-filtering, supports DNSSEC.
 
@@ -31,7 +31,8 @@ sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDKgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKli
 ## dns.digitale-gesellschaft.ch-2
 
 Public DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
-Hosted in Zurich, Switzerland.
+
+Hosted in Zürich, Switzerland🇨🇭.
 
 Non-logging, non-filtering, supports DNSSEC.
 
@@ -39,48 +40,80 @@ sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9Ng
 
 ## doh-ch-blahdns
 
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+Public DoH resolver operated by BlahDNS (https://blahdns.com).
+
+Hosted in Switzerland🇨🇭.
+
+Non-logging, Blocks ad and Tracking, supports DNSSEC. 
 
 sdns://AgMAAAAAAAAADDQ1LjkxLjkyLjEyMQASZG9oLWNoLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
 
 ## pf-dnscrypt
 
-by post-factum | Zürich, Switzerland | Non-logging | Non-filtering | DNSSEC | https://dns.post-factum.tk
+Public DNSCrypt resolver operated by post-factum (https://dns.post-factum.tk).
+
+Hosted in Zürich, Switzerland🇨🇭. 
+
+Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAFDE0MC4yMzguMjE1LjE5Mjo4NDQzIH2l4fL6H6BQcKWfdf9ZnrvWxZL_vxKUtQMcWDdZwB6bHjIuZG5zY3J5cHQtY2VydC5wb3N0LWZhY3R1bS50aw
 
 ## dnscrypt.pl
 
-Free | No filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnscryptpl
+Public DNSCrypt resolver operated by DNSCrypt Poland (https://dnscrypt.pl).
+
+Hosted in Poland🇵🇱.
+
+Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDUzIH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
 
 ## ams-dnscrypt-nl
 
-Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
+Public DNSCrypt resolver.
+
+Hosted in Amsterdam, Netherlands🇳🇱.
+
+Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
 ## d0wn-tz-ns1
 
-Server provided by Martin 'd0wn' Albus
+Public DNSCrypt operated by Martin 'd0wn' Albus.
+
+Hosted in Tanzania🇹🇿.
+
+Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAACzQxLjc5LjY5LjEzINYGFfvRRTuhTnaKPlxcs6wXRhMxRj2gr4z33wTaTXVtGzIuZG5zY3J5cHQtY2VydC50ei5kMHduLmJpeg
 
 ## d0wn-is-ns2
 
-Server provided by Martin 'd0wn' Albus
+Public DNSCrypt operated by Martin 'd0wn' Albus.
+
+Hosted in Iceland🇮🇸.
+
+Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAADTkzLjk1LjIyNi4xNjUghGA0qcYwyjwErEqQFiXxeoeyrLlBgKxIHiwQ6M7eGm8cMi5kbnNjcnlwdC1jZXJ0LmlzMi5kMHduLmJpeg
 
 ## dnscrypt.eu-nl
 
-Free, non-logged, uncensored. Hosted by RamNode.
+Public DNSCrypt hosted by RamNode.
+
+Hosted in Netherlands🇳🇱.
+
+Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 ## scaleway-ams
 
-DNSSEC/Non-logged/Uncensored in Amsterdam - DEV1-S instance donated by Scaleway.com Maintained by Frank Denis - https://fr.dnscrypt.info
+Public DNSCrypt resolver operated by Frank Denis (https://fr.dnscrypt.info).
+
+Hosted in Amsterdam, Netherlands🇳🇱.
+
+Non-logging, non-filtering, supports DNSSEC. 
 
 sdns://AQcAAAAAAAAADTUxLjE1LjEyMi4yNTAg6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
