@@ -98,16 +98,6 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAADTkzLjk1LjIyNi4xNjUghGA0qcYwyjwErEqQFiXxeoeyrLlBgKxIHiwQ6M7eGm8cMi5kbnNjcnlwdC1jZXJ0LmlzMi5kMHduLmJpeg
 
-## dnscrypt.eu-nl
-
-Public DNSCrypt hosted by RamNode.
-
-Hosted in Netherlands🇳🇱.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
-
 ## scaleway-ams
 
 Public DNSCrypt resolver operated by Frank Denis (https://fr.dnscrypt.info).
