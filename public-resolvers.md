@@ -78,26 +78,6 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
-## d0wn-tz-ns1
-
-Public DNSCrypt operated by Martin 'd0wn' Albus.
-
-Hosted in Tanzania🇹🇿.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAACzQxLjc5LjY5LjEzINYGFfvRRTuhTnaKPlxcs6wXRhMxRj2gr4z33wTaTXVtGzIuZG5zY3J5cHQtY2VydC50ei5kMHduLmJpeg
-
-## d0wn-is-ns2
-
-Public DNSCrypt operated by Martin 'd0wn' Albus.
-
-Hosted in Iceland🇮🇸.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAADTkzLjk1LjIyNi4xNjUghGA0qcYwyjwErEqQFiXxeoeyrLlBgKxIHiwQ6M7eGm8cMi5kbnNjcnlwdC1jZXJ0LmlzMi5kMHduLmJpeg
-
 ## scaleway-ams
 
 Public DNSCrypt resolver operated by Frank Denis (https://fr.dnscrypt.info).
