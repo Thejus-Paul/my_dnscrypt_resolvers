@@ -68,16 +68,6 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDUzIH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
 
-## ams-dnscrypt-nl
-
-Public DNSCrypt resolver.
-
-Hosted in Amsterdam, Netherlands🇳🇱.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
-
 ## scaleway-ams
 
 Public DNSCrypt resolver operated by Frank Denis (https://fr.dnscrypt.info).
