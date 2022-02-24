@@ -58,12 +58,27 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAFDE0MC4yMzguMjE1LjE5Mjo4NDQzIH2l4fL6H6BQcKWfdf9ZnrvWxZL_vxKUtQMcWDdZwB6bHjIuZG5zY3J5cHQtY2VydC5wb3N0LWZhY3R1bS50aw
 
-## scaleway-ams
+## quad9-dnscrypt-ipv4-primary
 
-Public DNSCrypt resolver operated by Frank Denis (https://fr.dnscrypt.info).
+Public DNSCrypt resolver from Quad9 (https://quad9.net).
 
-Hosted in Amsterdam, Netherlands🇳🇱.
+Non-logging, filtering, supports DNSSEC.
 
-Non-logging, non-filtering, supports DNSSEC. 
+sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
-sdns://AQcAAAAAAAAADTUxLjE1LjEyMi4yNTAg6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
+## quad9-dnscrypt-ipv4-alt
+
+Public DNSCrypt resolver from Quad9 (https://quad9.net).
+
+Non-logging, filtering, supports DNSSEC.
+
+stamp = 'sdns://AQMAAAAAAAAAEjE0OS4xMTIuMTEyLjk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0'
+
+## quad9-dnscrypt-ipv4-alt2
+
+Public DNSCrypt resolver from Quad9 (https://quad9.net).
+
+Non-logging, filtering, supports DNSSEC.
+
+stamp = 'sdns://AQMAAAAAAAAAFDE0OS4xMTIuMTEyLjExMjo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ'
+
